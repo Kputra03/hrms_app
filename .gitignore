@@ -1,0 +1,10 @@
+# File konfigurasi lokal/sensitif
+config/database.php
+
+# Uploads user / foto dummy
+uploads/*
+!uploads/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
